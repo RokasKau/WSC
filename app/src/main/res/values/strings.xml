@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSC</string>
+    <string name="rain_sound">Rain sound</string>
+    <string name="city_sound">City sound</string>
+    <string name="people_sound">People sound</string>
+    <string name="prev">People sound</string>
+    <string name="next">People sound</string>
+    <string name="back_button">Back</string>
+    <string name="stop_button">Back</string>
+</resources>
